@@ -1,3 +1,3 @@
-def fun_i():
+def fun_1():
     printf("hello world")
     
