@@ -1,3 +1,2 @@
 def fun_1():
-    printf("hello world")
-    
+    print("hello world") 
